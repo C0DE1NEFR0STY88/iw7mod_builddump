@@ -5,3 +5,26 @@ https://github.com/auroramod/iw7-mod
 
 
 https://github.com/SyndiShanX/Synergy-IW-GSC-Menu
+
+
+
+
+git fetch --depth=4
+then 50 then 100 so on
+ 
+git fetch --unshallow
+
+
+
+git clone --depth=1 --recursive https://github.com/auroramod/iw7-mod.git
+
+https://stackoverflow.com/a/62079208
+https://github.com/SyndiShanX/Synergy-IW-GSC-Menu/tree/main
+https://github.com/danieldt321/IW7-EXE-/releases
+https://www.youtube.com/watch?v=XhE9pX7tlYY
+https://www.youtube.com/watch?v=RgkMBqLNRxY
+
+
+@echo off
+tools\premake5 %* vs2022
+pause
